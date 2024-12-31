@@ -1,4 +1,3 @@
-# Yusupov
 # Take height and two bases of pyramid and count it's value
 # Import all nesessary libs and modules
 import math as m

@@ -1,5 +1,4 @@
-# Yusupov
-# Take height and two bases of pyramid and count it's value
+# Take mass, volume and density and return is object floats in the water
 
 # Finding function
 def Counting(m, V, po):
